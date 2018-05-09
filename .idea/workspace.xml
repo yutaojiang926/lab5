@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d7a6f83-591d-415e-a5a4-cf28ad6b4845" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/CSE 110 Lab 5/edu/ucsd/cs110/temperature/Celsius.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSE 110 Lab 5/edu/ucsd/cs110/temperature/Fahrenheit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSE 110 Lab 5/edu/ucsd/cs110/temperature/Temperature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSE 110 Lab 5/edu/ucsd/cs110/temperature/TemperatureConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSE 110 Lab 5/edu/ucsd/cs110/tests/CelsiusTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CSE 110 Lab 5/edu/ucsd/cs110/tests/FahrenheitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1d7a6f83-591d-415e-a5a4-cf28ad6b4845" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -358,7 +350,7 @@
       <updated>1525287859304</updated>
       <workItem from="1525287883315" duration="1695000" />
       <workItem from="1525295118695" duration="498000" />
-      <workItem from="1525873780881" duration="8513000" />
+      <workItem from="1525873780881" duration="8801000" />
     </task>
     <servers />
   </component>
@@ -395,7 +387,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10706000" />
+    <option name="totallyTimeSpent" value="10994000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="736" extended-state="6" />
